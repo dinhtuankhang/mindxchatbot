@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    color: #E31F26;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #E31F26;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    opacity: 0.9; /* Slight transparency to see background through */
+}
+
+h1 {
+    margin: 0;
+}
+
+.chatbot-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-image: url('https://static.topcv.vn/company_logos/Xz0XnDrB416uay5Ugb0bLFQVHKFcVdkL_1692257186____e899760276d6b10d8c66829607d5c48e.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.chatbot-container script {
+    width: 100%;
+    max-width: 600px;
+}
